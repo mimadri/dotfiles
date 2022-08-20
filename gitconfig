@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Avenida Linares 0942 La Granja
+	name = Michelle Madrid
